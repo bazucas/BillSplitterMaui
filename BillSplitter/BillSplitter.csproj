@@ -48,4 +48,6 @@
 		<MauiAsset Include="Resources\Raw\**" LogicalName="%(RecursiveDir)%(Filename)%(Extension)" />
 	</ItemGroup>
 
+	<ProjectExtensions><VisualStudio><UserProperties XamarinHotReloadGenericExceptionInfoBarBillSplitterHideInfoBar="True" /></VisualStudio></ProjectExtensions>
+
 </Project>
